@@ -41,7 +41,7 @@ a.svg{position: relative;display:inline-block;border-bottom:0;}a.svg:after{conte
 
 
 
-.text{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;text-align: center;min-height:100vh;}
+.text{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;text-align:center;min-height:100vh;}
 
 .dull{color:hsla(0,0%,40%,1.0);font-style:italic;letter-spacing:0.033rem;}
 .seal{height:4.86rem;margin-bottom:2.737rem;}
